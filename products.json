@@ -1,0 +1,30 @@
+[
+    {
+        "name": "iphone",
+        "price": "154",
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "iphone watch",
+        "price": "1544",
+        "featured": true,
+        "company": "apple"
+    },
+    {
+        "name": "oneplus 11r",
+        "price": "1154",
+        "featured": true,
+        "company": "oneplus"
+    },
+    {
+        "name": "vivo v17",
+        "price": "2700",
+        "company": "vivo"
+    },
+    {
+        "name": "vivo reno",
+        "price": "2700",
+        "company": "vivo"
+    }
+]
